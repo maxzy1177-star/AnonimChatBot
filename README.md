@@ -15,7 +15,7 @@ This repository contains a simple chatbot implemented in Python using the Aiogra
    ```
 
 3. **Set Up Bot Token:**
-   Replace `API_TOKEN` in the code with your Telegram Bot API token. You can obtain a token by creating a new bot on Telegram through the [BotFather](8759452127:AAHaiYt5FqXgtCJNM6GtvKa7oUUL3gWYQZU).
+   Replace `API_TOKEN` in the code with your Telegram Bot API token. You can obtain a token by creating a new bot on Telegram through the [BotFather](8649321220:AAH7c2PAqfW5Es8Sob_JCOBon0LWCONA5-U).
 
 4. **Run the Bot:**
    ```bash
