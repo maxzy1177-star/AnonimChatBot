@@ -1,6 +1,6 @@
 from aiogram import *
 
-API_TOKEN = 'API_TOKEN'
+API_TOKEN = '8973623655:AAEuxPlGatxo43LSbDEIHF-LUCPGSo2EDQw'
 
 chat_rooms = {}
 waiting_rooms = set()
